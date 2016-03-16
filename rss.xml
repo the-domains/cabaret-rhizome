@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cabaret Rhizome]]></title>
         <description><![CDATA[Cabaret Rhizome]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cabaret-rhizome/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 10:35:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 10:38:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cabaret-rhizome/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>"Otsuse anatoomia" 05. aprill kell 19.00</p>]]></description>
-            <link>undefined854ef947-b91a-46c6-b347-15e98c543f85/index.html</link>
+            <link>https://thegrid.ai/cabaret-rhizome/854ef947-b91a-46c6-b347-15e98c543f85/index.html</link>
             <guid isPermaLink="false">854ef947-b91a-46c6-b347-15e98c543f85</guid>
-            <pubDate>Wed, 16 Mar 2016 10:35:11 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 10:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
