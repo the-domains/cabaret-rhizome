@@ -1,6 +1,6 @@
 name: Cabaret Rhizome
 favicon: null
-layout_spectrum: 0.1360681129153818
+layout_spectrum: 0.77256
 typography_spectrum: 0.4639176703058183
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.1195368089247495
+  brandStrength: 0.5
   lightness: 0.1565969695802778
   saturation: 0.3237087447196245
   rhythmicContrast: 0.012869685888290405
