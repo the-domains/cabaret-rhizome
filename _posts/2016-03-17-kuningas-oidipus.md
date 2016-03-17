@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Võttes arvesse, et Oidipuse vana-vana-vanaisa Kadmos sattus jumalatega pahuksisse juba Teeba linna rajamise juures ning pidi pärast enesekaitseks lohe tapmist 8 aastat Arese juures orjapõlves olema, et juba Teeba esimene võimuvahetus (ja ka paljud järgnevad) sai võimalikuks mõrva ja jumaliku vandenõu läbi, et Kadmose lapselaps Labdakos (Oidipuse vanaisa) Dionüüsuse solvamise eest joomahulluses naiste poolt lõhki rebiti, et Oidipuse isa Laios viis seksuaalse väärkohtlemise läbi enesetapuni naaberkuningriigi kuningapoja Chryssipose, ei olegi kuigi imekspandav, et Oidipus pärast kakskümmend aastat kestnud õnnelikku abielu avastas end oma tütardele ja poegadele nii isa kui vend olevat, juhuslikult sooritatud isatapust rääkimata.'
-datePublished: '2016-03-17T11:45:25.646Z'
-dateModified: '2016-03-17T11:45:05.669Z'
+datePublished: '2016-03-17T15:14:07.614Z'
+dateModified: '2016-03-17T15:14:07.001Z'
 title: KUNINGAS OIDIPUS
 author: []
+sourcePath: _posts/2016-03-17-kuningas-oidipus.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-kuningas-oidipus.md
-published: true
 url: kuningas-oidipus/index.html
 _type: Article
 
@@ -34,3 +34,9 @@ Cabaret Rhizome'i "Kuningas Oidipus" isatapu, emapaneku ja enesepimestamise läb
 Alusmaterjaliks olnud Sophoklese tragöödiat on värsitundlikult laiendatud (tagasiulatuvalt) Teeba linna rajamiseni ning Oidipuse esiisade käekäiku jälgides liigub värske teos mööda Kadmose vereliini, tuvastades meie isade pattusid, mis meid tihti valikuvõimalusteta jätavad.
 
 Meeskond: Ajjar Ausma, Ott Kartau, Liisa Linhein, Joonas Parve, Päär Pärenson, Anatoli Tafitšuk, Sander Mölder, Ryan Chapman, Mark Duubas, Maria Kalm, Mart Männik, Eero Järviste, Johannes Veski
+
+[Oidi\_Treila][0] from [Cabaret Rhizome][1] on [Vimeo][2].
+
+[0]: https://vimeo.com/159362270
+[1]: https://vimeo.com/user5181119
+[2]: https://vimeo.com/
