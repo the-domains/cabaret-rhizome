@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cabaret Rhizome]]></title>
         <description><![CDATA[Cabaret Rhizome]]></description>
-        <link>https://thegrid.ai/cabaret-rhizome/</link>
+        <link>http://cabaretrhizome.ee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 12:37:12 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/cabaret-rhizome/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 10:50:00 GMT</lastBuildDate>
+        <atom:link href="http://cabaretrhizome.ee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OTSUSE ANATOOMIA]]></title>
+            <description><![CDATA[<article><h1>OTSUSE ANATOOMIA</h1><h2>LUGEMIST OTSUSE ANATOOMIA KOHTA</h2><p>“Õpi valima! Mõistma, kuidas avalik arvamus kujuneb. Osale koolitusel, mis toob otsustusprotsesside manipuleeritavuse ja rühmaarvamuse mõjutamise kogu selle alastuses nähtavale – mine vaata Cabaret Rhizome’i „Otsuse anatoomiat“. (Poliitikutele keelatud – nad oskavad niigi.)” / Ott Karulin / SIRP</p></article>]]></description>
+            <link>http://cabaretrhizome.ee/otsuse-anatoomia/index.html</link>
+            <guid isPermaLink="false">ea5ffa6d-8894-4144-8dba-eae3c3010a8f</guid>
+            <pubDate>Thu, 17 Mar 2016 10:48:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ÜTLEVAD]]></title>
             <description><![CDATA[<article><h1>ÜTLEVAD</h1><h2>2015</h2><p>“Cabaret Rhizome’i „Kuningas Oidipus“ on esteetiliselt küps teatriteos.” / Meelis Oidsalu / Eesti Ekspress</p></article>]]></description>
-            <link>https://thegrid.ai/cabaret-rhizome/feedback/index.html</link>
+            <link>http://cabaretrhizome.ee/feedback/index.html</link>
             <guid isPermaLink="false">01b2bdae-dc5f-4355-9125-15d9e16bcd82</guid>
             <pubDate>Wed, 16 Mar 2016 12:37:00 GMT</pubDate>
         </item>
