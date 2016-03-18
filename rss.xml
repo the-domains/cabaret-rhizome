@@ -4,11 +4,18 @@
         <description><![CDATA[Cabaret Rhizome]]></description>
         <link>http://cabaretrhizome.ee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 13:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2016 13:42:29 GMT</lastBuildDate>
         <atom:link href="http://cabaretrhizome.ee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[INIMESED]]></title>
+            <description><![CDATA[<article><h1>INIMESED</h1><p>Anatoli Tafitšuk</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bf657fd3293eb4d7bd7ef946a6366b6431711cd.jpg"></article>]]></description>
+            <link>http://cabaretrhizome.ee/inimesed/index.html</link>
+            <guid isPermaLink="false">fb40b3f9-b826-465a-b4be-fe9ccced241f</guid>
+            <pubDate>Fri, 18 Mar 2016 13:41:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[KRIITIKA]]></title>
-            <description><![CDATA[<article><h1>KRIITIKA</h1><p>“Cabaret Rhizome’i „Kuningas Oidipus“ on esteetiliselt küps teatriteos.” / Meelis Oidsalu / Eesti Ekspress</p></article>]]></description>
+            <description><![CDATA[<article><h1>KRIITIKA</h1><h2>Kirjutisi Cabaret Rhizome tegevuse kohta algusest tänapäevani</h2><p>“Cabaret Rhizome’i „Kuningas Oidipus“ on esteetiliselt küps teatriteos.” / Meelis Oidsalu / Eesti Ekspress</p></article>]]></description>
             <link>http://cabaretrhizome.ee/kriitika/index.html</link>
             <guid isPermaLink="false">ec23932a-b891-4b0c-9709-4fb4d7dd5895</guid>
             <pubDate>Fri, 18 Mar 2016 13:11:18 GMT</pubDate>
