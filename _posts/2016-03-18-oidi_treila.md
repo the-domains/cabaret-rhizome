@@ -1,16 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/159362270'
+inLanguage: null
+starred: false
+keywords: []
+description: 'This is "Oidi_Treila" by on Vimeo, the home for high quality videos and the people who love them.'
+datePublished: '2016-03-18T12:45:55.054Z'
+dateModified: '2016-03-18T12:45:45.575Z'
 author:
   - name: Cabaret Rhizome
     url: 'http://vimeo.com/user5181119'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'This is "Oidi_Treila" by on Vimeo, the home for high quality videos and the people who love them.'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/159362270'
     type: ios
@@ -38,15 +41,15 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/159362270'
 title: Oidi_Treila
-datePublished: '2016-03-18T12:40:10.882Z'
-dateModified: '2016-03-18T12:21:50.748Z'
 sourcePath: _posts/2016-03-18-oidi_treila.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
