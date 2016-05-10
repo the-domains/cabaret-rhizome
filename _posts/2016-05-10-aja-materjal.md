@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-10T08:18:39.252Z'
-dateModified: '2016-05-10T08:18:38.761Z'
+datePublished: '2016-05-10T08:20:51.892Z'
+dateModified: '2016-05-10T08:20:51.444Z'
 title: AJA MATERJAL
 author: []
 authors: []
@@ -22,8 +22,7 @@ _type: Article
 
 ---
 # AJA MATERJAL
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09355396-0946-479f-a757-641f7b5ce9bd.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43841e59-6ba6-43e1-a9bb-4e0f424531b1.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba612c70-fea7-49cb-b235-1cf5ff1f746f.png)
 
 Lavastus "AJA MATERJAL" on inspireeritud fotograaf Eadweard Muybridge (1830-1904) loomingust ja tähelepanekutest liikumise kadreeritusest. Võttes inspiratsiooniks tema uurimuse ja otsides paralleele kaasaegse aja kontseptsioonidega on Cabaret Rhizome'i meeskond asunud koostööle lavastaja Taavet Janseni, koreograaf Liis Varese ja helikunstnik Kalle Tikasega. Koos minnakse aja sisse, kus on ümberringi ainult lõpmatus ning olukorrad, mis muutuvad, korduvad ja arenevad teadmata suunas. Esmapilgul lihtne otsus toob endaga kaasa pöördumatud muutused ja just tänu aja pöördumatusele pole meil võimalik teha muud, kui minna liikumisega kaasa.  
 
