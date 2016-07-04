@@ -4,8 +4,15 @@
         <description><![CDATA[Cabaret Rhizome]]></description>
         <link>http://cabaretrhizome.ee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 07:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 09:22:40 GMT</lastBuildDate>
         <atom:link href="http://cabaretrhizome.ee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[OTSUSE ANATOOMIA]]></title>
+            <description><![CDATA[<article><h1>OTSUSE ANATOOMIA</h1><p>“Samuti on «Otsuse anatoomia» ja üldse Cabaret Rhizome’i viimaste aegade tegemiste puhul tegu funktsiooniteatriga. See on end otsustavalt lahti rebinud modernismitraditsioonist, et inimestevaheline kommunikatsioon pole võimalik, jumal on surnud ja kunst seda kõike esitab."</p></article>]]></description>
+            <link>http://cabaretrhizome.ee/otsuse-anatoomia/index.html</link>
+            <guid isPermaLink="false">ea5ffa6d-8894-4144-8dba-eae3c3010a8f</guid>
+            <pubDate>Mon, 04 Jul 2016 09:22:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AJA MATERJAL]]></title>
             <description><![CDATA[<article><h1>AJA MATERJAL</h1><p>Lavastus “AJA MATERJAL” on inspireeritud fotograaf Eadweard Muybridge (1830-1904) loomingust ja tähelepanekutest liikumise kadreeritusest. Võttes inspiratsiooniks tema uurimuse ja otsides paralleele kaasaegse aja kontseptsioonidega on Cabaret Rhizome'i meeskond asunud koostööle lavastaja Taavet Janseni, koreograaf Liis Varese ja helikunstnik Kalle Tikasega. Koos minnakse aja sisse, kus on ümberringi ainult lõpmatus ning olukorrad, mis muutuvad, korduvad ja arenevad teadmata suunas. Esmapilgul lihtne otsus toob endaga kaasa pöördumatud muutused ja just tänu aja pöördumatusele pole meil võimalik teha muud, kui minna liikumisega kaasa.</p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>http://cabaretrhizome.ee/kuningas-oidipus/index.html</link>
             <guid isPermaLink="false">0a980835-1a4c-467a-bc44-028889bb2e9d</guid>
             <pubDate>Thu, 17 Mar 2016 15:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OTSUSE ANATOOMIA]]></title>
-            <description><![CDATA[<article><h1>OTSUSE ANATOOMIA</h1><p>“Õpi valima! Mõistma, kuidas avalik arvamus kujuneb. Osale koolitusel, mis toob otsustusprotsesside manipuleeritavuse ja rühmaarvamuse mõjutamise kogu selle alastuses nähtavale – mine vaata Cabaret Rhizome’i „Otsuse anatoomiat“. (Poliitikutele keelatud – nad oskavad niigi.)” / Ott Karulin / SIRP</p></article>]]></description>
-            <link>http://cabaretrhizome.ee/otsuse-anatoomia/index.html</link>
-            <guid isPermaLink="false">ea5ffa6d-8894-4144-8dba-eae3c3010a8f</guid>
-            <pubDate>Thu, 17 Mar 2016 12:03:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
