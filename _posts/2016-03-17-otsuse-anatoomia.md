@@ -3,21 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: '“Õpi valima! Mõistma, kuidas avalik arvamus kujuneb. Osale koolitusel, mis toob otsustusprotsesside manipuleeritavuse ja rühmaarvamuse mõjutamise kogu selle alastuses nähtavale – mine vaata Cabaret Rhizome’i „Otsuse anatoomiat“. (Poliitikutele keelatud – nad oskavad niigi.)” / Ott Karulin / SIRP'
-datePublished: '2016-03-17T12:03:09.117Z'
-dateModified: '2016-03-17T11:59:37.283Z'
+description: >-
+  “Samuti on «Otsuse anatoomia» ja üldse Cabaret Rhizome’i viimaste aegade
+  tegemiste puhul tegu funktsiooniteatriga. See on end otsustavalt lahti rebinud
+  modernismitraditsioonist, et inimestevaheline kommunikatsioon pole võimalik,
+  jumal on surnud ja kunst seda kõike esitab."
+datePublished: '2016-07-04T09:22:38.060Z'
+dateModified: '2016-07-04T09:22:09.090Z'
 title: OTSUSE ANATOOMIA
 author: []
 sourcePath: _posts/2016-03-17-otsuse-anatoomia.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: otsuse-anatoomia/index.html
 _type: Article
 
@@ -37,9 +36,12 @@ Esietendus: 19\. märts 2015
 
 ## LUGEMIST OTSUSE ANATOOMIA KOHTA
 
-["Õpi valima! Mõistma, kuidas avalik arvamus kujuneb. Osale koolitusel, mis toob otsustusprotsesside manipuleeritavuse ja rühmaarvamuse mõjutamise kogu selle alastuses nähtavale -- mine vaata Cabaret Rhizome'i „Otsuse anatoomiat". (Poliitikutele keelatud -- nad oskavad niigi.)" / Ott Karulin / SIRP][0]
+["Kindlasti võiks kogeda -- kui seda juhust veel olnud pole -- etenduskunstide ühisauhinna laureaadi Cabaret Rhizome'i lavastusi, mis on ainulaadsed ka maailma kontekstis ning kus on tõepoolest põimunud teatri ja muude kunstiliikide väljendusvahendid."][0] Ott Karulin / SIRP
 
-["Samuti on «Otsuse anatoomia» ja üldse Cabaret Rhizome'i viimaste aegade tegemiste puhul tegu funktsiooniteatriga. See on end otsustavalt lahti rebinud modernismitraditsioonist, et inimestevaheline kommunikatsioon pole võimalik, jumal on surnud ja kunst seda kõike esitab."][1]
+["Õpi valima! Mõistma, kuidas avalik arvamus kujuneb. Osale koolitusel, mis toob otsustusprotsesside manipuleeritavuse ja rühmaarvamuse mõjutamise kogu selle alastuses nähtavale -- mine vaata Cabaret Rhizome'i „Otsuse anatoomiat". (Poliitikutele keelatud -- nad oskavad niigi.)" / Ott Karulin / SIRP][1]
 
-[0]: http://www.sirp.ee/s1-artiklid/teater/rosimanluse-katsepolugoon-valijatele/
-[1]: http://kultuur.postimees.ee/3153883/teater-kui-pehme-kommunikatsioon
+["Samuti on «Otsuse anatoomia» ja üldse Cabaret Rhizome'i viimaste aegade tegemiste puhul tegu funktsiooniteatriga. See on end otsustavalt lahti rebinud modernismitraditsioonist, et inimestevaheline kommunikatsioon pole võimalik, jumal on surnud ja kunst seda kõike esitab."][2]
+
+[0]: http://www.sirp.ee/s1-artiklid/teater/kommentaar-ott-karulin-sonalavastuste-auhindade-zurii-esimees/
+[1]: http://www.sirp.ee/s1-artiklid/teater/rosimanluse-katsepolugoon-valijatele/
+[2]: http://kultuur.postimees.ee/3153883/teater-kui-pehme-kommunikatsioon
