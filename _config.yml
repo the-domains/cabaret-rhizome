@@ -19,12 +19,16 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3573dfe7-75b1-4a27-be70-bab57e898e05.png
 name: Cabaret Rhizome
 cta:
   domain: null
   bucket: null
   version: null
 favicon: null
-title: Cabaret Rhizome
+title: Follow the Right Rabbit
 description: Follow the right rabbit!
 purpose: []
