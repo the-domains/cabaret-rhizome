@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cabaret Rhizome]]></title>
-        <description><![CDATA[Cabaret Rhizome]]></description>
+        <title><![CDATA[Follow the Right Rabbit]]></title>
+        <description><![CDATA[Follow the Right Rabbit]]></description>
         <link>http://cabaretrhizome.ee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 09:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 18:48:27 GMT</lastBuildDate>
         <atom:link href="http://cabaretrhizome.ee/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[OTSUSE ANATOOMIA]]></title>
-            <description><![CDATA[<article><h1>OTSUSE ANATOOMIA</h1><p>“Samuti on «Otsuse anatoomia» ja üldse Cabaret Rhizome’i viimaste aegade tegemiste puhul tegu funktsiooniteatriga. See on end otsustavalt lahti rebinud modernismitraditsioonist, et inimestevaheline kommunikatsioon pole võimalik, jumal on surnud ja kunst seda kõike esitab."</p></article>]]></description>
-            <link>http://cabaretrhizome.ee/otsuse-anatoomia/index.html</link>
-            <guid isPermaLink="false">ea5ffa6d-8894-4144-8dba-eae3c3010a8f</guid>
-            <pubDate>Mon, 04 Jul 2016 09:22:38 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[AJA MATERJAL]]></title>
             <description><![CDATA[<article><h1>AJA MATERJAL</h1><p>Lavastus “AJA MATERJAL” on inspireeritud fotograaf Eadweard Muybridge (1830-1904) loomingust ja tähelepanekutest liikumise kadreeritusest. Võttes inspiratsiooniks tema uurimuse ja otsides paralleele kaasaegse aja kontseptsioonidega on Cabaret Rhizome'i meeskond asunud koostööle lavastaja Taavet Janseni, koreograaf Liis Varese ja helikunstnik Kalle Tikasega. Koos minnakse aja sisse, kus on ümberringi ainult lõpmatus ning olukorrad, mis muutuvad, korduvad ja arenevad teadmata suunas. Esmapilgul lihtne otsus toob endaga kaasa pöördumatud muutused ja just tänu aja pöördumatusele pole meil võimalik teha muud, kui minna liikumisega kaasa.</p></article>]]></description>
